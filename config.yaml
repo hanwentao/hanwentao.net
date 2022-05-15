@@ -1,0 +1,9 @@
+baseURL: https://hanwentao.net/
+languageCode: zh-cn
+title: 韩文弢的个人主页
+markup:
+  defaultMarkdownHandler: pandoc
+security:
+  exec:
+    allow:
+      - pandoc
