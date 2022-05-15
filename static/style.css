@@ -1,0 +1,29 @@
+html {
+  /* Fix big font on landscape iPhone issue */
+  -webkit-text-size-adjust: 100%;
+}
+
+#title-block-header {
+  display: none;
+}
+
+#content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+#header {
+  text-align: center;
+}
+
+#avatar {
+  display: block;
+  margin: 0 auto;
+}
+
+@media (min-width: 599px) {
+  #avatar {
+    float: right;
+  }
+}
