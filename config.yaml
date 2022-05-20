@@ -7,4 +7,4 @@ markup:
 security:
   exec:
     allow:
-      - pandoc
+      - ^pandoc
