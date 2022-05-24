@@ -31,6 +31,8 @@ date: 2022-05-14T20:01:02+08:00
 * [GoAccess](https://goaccess.io/)：生成网站访问统计信息的工具
   * [GoAccess 1.4, a detailed tutorial](https://arnaudr.io/2020/08/10/goaccess-14-a-detailed-tutorial/)
   * [如何在 Nginx 下配置 GoAccess 的 WebSocket 功能](https://blog.51cto.com/u_1986371/2456422)
+* [OBS Studio](https://obsproject.com/)：录屏、推流工具
+* [BlackHole](https://existential.audio/blackhole/)：音频路由工具
 
 ## Just for Fun
 
