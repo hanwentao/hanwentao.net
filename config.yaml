@@ -1,6 +1,7 @@
 baseURL: https://hanwentao.net/
 languageCode: zh-cn
 title: 韩文弢的个人网站
+copyright: '&copy;2022 <a href="https://hanwentao.net">韩文弢</a>'
 theme: han
 markup:
   defaultMarkdownHandler: pandoc
