@@ -23,7 +23,7 @@ date: 2022-05-14T20:01:02+08:00
 * [《论 C++ 语言在信息学竞赛中的应用》](cpp-in-oi/)：本人参加 2004 年信息学国家集训队时撰写的论文
 * [html2csv](https://github.com/hanwentao/html2csv)：一个将 HTML 表格转换成 CSV 格式的命令行小工具
 * [tornado-webhook](https://github.com/hanwentao/tornado-webhook)：用 [Tornado](https://www.tornadoweb.org/) 实现的[网络钩子 (webhook)](https://docs.github.com/en/developers/webhooks-and-events/webhooks/about-webhooks) 服务端
-* macOS 动态壁纸：[2022 北京冬奥会 24 节气](24SolarTerms.heic)、[自制简约版 12 时辰](12EarthlyBranches.heic)
+* macOS 动态壁纸：[2022 北京冬奥会 24 节气](24SolarTerms.heic) (245 MB)、[自制简约版 12 时辰](12EarthlyBranches.heic) (1.4 MB)
 
 ## 软件推荐
 
