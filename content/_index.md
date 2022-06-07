@@ -25,14 +25,14 @@ date: 2022-05-14T20:01:02+08:00
 * [tornado-webhook](https://github.com/hanwentao/tornado-webhook)：用 [Tornado](https://www.tornadoweb.org/) 实现的[网络钩子 (webhook)](https://docs.github.com/en/developers/webhooks-and-events/webhooks/about-webhooks) 服务端
 * 动态壁纸：自制简约版 12 时辰
 
-  <div class="two-columns">
-  <div class="column">
-  ![隶书版：[macOS](12_Earthly_Branches_Baoli.heic)、[Windows](12_Earthly_Branches_Baoli.ddw)](12_Earthly_Branches_Baoli.png)
-  </div>
-  <div class="column">
-  ![楷书版：[macOS](12_Earthly_Branches_Kaiti.heic)、[Windows](12_Earthly_Branches_Kaiti.ddw)](12_Earthly_Branches_Kaiti.png)
-  </div>
-  </div>
+  :::::: {.two-columns}
+  ::: {.column}
+  ![隶书版：[macOS](12_Earthly_Branches_Baoli.heic)、[Windows](12_Earthly_Branches_Baoli.ddw)](12_Earthly_Branches_Baoli.png){width="300px"}
+  :::
+  ::: {.column}
+  ![楷书版：[macOS](12_Earthly_Branches_Kaiti.heic)、[Windows](12_Earthly_Branches_Kaiti.ddw)](12_Earthly_Branches_Kaiti.png){width="300px"}
+  :::
+  ::::::
 
 ## 软件推荐
 
