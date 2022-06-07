@@ -23,8 +23,16 @@ date: 2022-05-14T20:01:02+08:00
 * [《论 C++ 语言在信息学竞赛中的应用》](cpp-in-oi/)：本人参加 2004 年信息学国家集训队时撰写的论文
 * [html2csv](https://github.com/hanwentao/html2csv)：一个将 HTML 表格转换成 CSV 格式的命令行小工具
 * [tornado-webhook](https://github.com/hanwentao/tornado-webhook)：用 [Tornado](https://www.tornadoweb.org/) 实现的[网络钩子 (webhook)](https://docs.github.com/en/developers/webhooks-and-events/webhooks/about-webhooks) 服务端
-* 动态壁纸
-  * 自制简约版 12 时辰：[隶书版](12EarthlyBranchesLi.heic)、[楷体版](12EarthlyBranchesKai.heic)
+* 动态壁纸：自制简约版 12 时辰
+
+  <div class="two-columns">
+  <div class="column">
+  ![隶书版：[macOS](12_Earthly_Branches_Baoli.heic)、[Windows](12_Earthly_Branches_Baoli.ddw)](12_Earthly_Branches_Baoli.png)
+  </div>
+  <div class="column">
+  ![楷书版：[macOS](12_Earthly_Branches_Kaiti.heic)、[Windows](12_Earthly_Branches_Kaiti.ddw)](12_Earthly_Branches_Kaiti.png)
+  </div>
+  </div>
 
 ## 软件推荐
 
@@ -35,8 +43,10 @@ date: 2022-05-14T20:01:02+08:00
   * [如何在 Nginx 下配置 GoAccess 的 WebSocket 功能](https://blog.51cto.com/u_1986371/2456422)
 * [OBS Studio](https://obsproject.com/)：录屏、推流工具
 * [BlackHole](https://existential.audio/blackhole/)：音频路由工具
-* [Equinox](https://equinoxmac.com/)：macOS 动态壁纸制作工具
-  * 另有命令行工具 [wallpapper](https://github.com/mczachurski/wallpapper)
+* 动态壁纸
+  * [Equinox](https://equinoxmac.com/)：macOS 动态壁纸制作工具
+  * [wallpapper](https://github.com/mczachurski/wallpapper)：命令行制作工具
+  * [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop)：Windows 动态壁纸使用工具
 
 ## Just for Fun
 
