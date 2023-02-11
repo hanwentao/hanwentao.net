@@ -54,10 +54,10 @@ date: 2022-05-14T20:01:02+08:00
 
 <script>
   function computeAge(year, month, day) {
-    var now = new Date();
-    var thisYear = now.getFullYear();
-    var age = thisYear - year;
-    var birthday = new Date(thisYear, month - 1, day);
+    let now = new Date();
+    let thisYear = now.getFullYear();
+    let age = thisYear - year;
+    let birthday = new Date(thisYear, month - 1, day);
     return now >= birthday ? age : age - 1;
   }
   document.getElementById("ethan-age").innerText = computeAge(2015, 7, 17);
