@@ -42,6 +42,7 @@ date: 2022-05-14T20:01:02+08:00
   * [GoAccess 1.4, a detailed tutorial](https://arnaudr.io/2020/08/10/goaccess-14-a-detailed-tutorial/)
   * [如何在 Nginx 下配置 GoAccess 的 WebSocket 功能](https://blog.51cto.com/u_1986371/2456422)
 * [OBS Studio](https://obsproject.com/)：录屏、推流工具
+* [LosslessCut](https://mifi.no/losslesscut/)：简单的视频/音频剪辑工具，可以方便地截取一段视频
 * [BlackHole](https://existential.audio/blackhole/)：音频路由工具
 * 动态壁纸
   * [Equinox](https://equinoxmac.com/)：macOS 动态壁纸制作工具
