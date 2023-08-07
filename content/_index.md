@@ -49,6 +49,10 @@ date: 2022-05-14T20:01:02+08:00
   * [wallpapper](https://github.com/mczachurski/wallpapper)：命令行制作工具
   * [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop)：Windows 动态壁纸使用工具
 
+## 小技巧
+
+* [修复 macOS 下载文件名乱码](https://www.jianshu.com/p/8b3de75f2658)
+
 ## Just for Fun
 
 * [GitHub R&eacute;sum&eacute;](https://resume.github.io/?hanwentao)
