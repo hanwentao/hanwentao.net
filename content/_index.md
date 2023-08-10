@@ -20,7 +20,7 @@ date: 2022-05-14T20:01:02+08:00
 
 ## 个人创作
 
-* [《论 C++ 语言在信息学竞赛中的应用》](cpp-in-oi/)：本人参加 2004 年信息学国家集训队时撰写的论文
+* [《论 C++ 语言在信息学竞赛中的应用》](cpp-in-oi/)：本人参加 2004 年信息学国家集训队时撰写的论文（格式转换进行中）
 * [html2csv](https://github.com/hanwentao/html2csv)：一个将 HTML 表格转换成 CSV 格式的命令行小工具
 * [tornado-webhook](https://github.com/hanwentao/tornado-webhook)：用 [Tornado](https://www.tornadoweb.org/) 实现的[网络钩子 (webhook)](https://docs.github.com/en/developers/webhooks-and-events/webhooks/about-webhooks) 服务端
 * 动态壁纸：自制简约版 12 时辰
@@ -37,7 +37,7 @@ date: 2022-05-14T20:01:02+08:00
 ## 软件推荐
 
 * [Pandoc](https://pandoc.org/)：文档格式转换工具
-* [bookdown](https://bookdown.org/)：使用 [R Markdown](https://rmarkdown.rstudio.com/) 格式写书的工具
+* [Quarto](https://quarto.org/)：基于 [Markdown](https://daringfireball.net/projects/markdown/) 语法的科技出版工具（可用于写文章、书、演示文稿、网站等）
 * [GoAccess](https://goaccess.io/)：生成网站访问统计信息的工具
   * [GoAccess 1.4, a detailed tutorial](https://arnaudr.io/2020/08/10/goaccess-14-a-detailed-tutorial/)
   * [如何在 Nginx 下配置 GoAccess 的 WebSocket 功能](https://blog.51cto.com/u_1986371/2456422)
