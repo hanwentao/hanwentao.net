@@ -12,7 +12,7 @@ date: 2022-05-14T20:01:02+08:00
 * [一个 []{#ethan-age} 岁男孩](https://hanyicheng.net)的爸爸
 * [计算机专业的大学教师](https://pacman.cs.tsinghua.edu.cn/~hanwentao/)
 * [PACMAN 组](https://pacman.cs.tsinghua.edu.cn)曾经的小神童
-* [信息学竞赛](https://noi.cn)的深度参与者
+* [信息学竞赛](https://www.noi.cn)的深度参与者
 * 被社工耽误的[码农](https://github.com/hanwentao)
 * 因为没人想当而赶鸭子上架又乐此不疲的[足球守门员](https://en.wikipedia.org/wiki/Goalkeeper_(association_football))
 * 时断时续的[乐高](https://www.lego.com/zh-cn)玩家
