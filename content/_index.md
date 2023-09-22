@@ -5,7 +5,7 @@ date: 2022-05-14T20:01:02+08:00
 
 # 韩文弢的个人主页 {#header}
 
-![](hanwentao.png){#avatar}
+![韩文弢](hanwentao.png){#avatar}\
 
 我是
 
