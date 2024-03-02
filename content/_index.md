@@ -23,7 +23,8 @@ date: 2022-05-14T20:01:02+08:00
 * [《论 C++ 语言在信息学竞赛中的应用》](cpp-in-oi/)：本人参加 [2004 年信息学国家集训队](https://www.noi.cn/hjmd/mdgs/2003/2009-09-18/710225.shtml)时撰写的论文（格式转换进行中）
 * [html2csv](https://github.com/hanwentao/html2csv)：Python 实现的将 HTML 表格转换成 CSV 格式的命令行工具
 * [tornado-webhook](https://github.com/hanwentao/tornado-webhook)：用 [Tornado](https://www.tornadoweb.org/) 实现的[网络钩子 (webhook)](https://docs.github.com/en/developers/webhooks-and-events/webhooks/about-webhooks) 服务端
-* [omnical](https://github.com/hanwentao/omnical)：Rust 实现的万年历库和命令行工具
+* [omnical](https://github.com/hanwentao/omnical)：Rust 实现的万年历库和命令行工具\
+  [![Crates.io Version](https://img.shields.io/crates/v/omnical)![Crates.io Total Downloads](https://img.shields.io/crates/d/omnical)](https://crates.io/crates/omnical)
 * 动态壁纸：自制简约版 12 时辰
 
   :::::: {.two-columns}
@@ -53,10 +54,6 @@ date: 2022-05-14T20:01:02+08:00
 ## 小技巧
 
 * [修复 macOS 下载文件名乱码](https://www.jianshu.com/p/8b3de75f2658)
-
-## Just for Fun
-
-* [GitHub R&eacute;sum&eacute;](https://resume.github.io/?hanwentao)
 
 <script>
   function computeAge(year, month, day) {
