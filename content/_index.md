@@ -15,7 +15,7 @@ date: 2022-05-14T20:01:02+08:00
 * [信息学竞赛](https://www.noi.cn)的深度参与者
 * 被社工耽误的[码农](https://github.com/hanwentao)
 * 因为没人想当而赶鸭子上架又乐此不疲的[足球守门员](https://en.wikipedia.org/wiki/Goalkeeper_(association_football))
-* 时断时续的[乐高](https://www.lego.com/zh-cn)玩家
+* 时断时续的[乐高](https://www.lego.com/zh-cn)玩家（[我的收藏](https://brickver.com/@hanwentao)）
 * 买了还没开始学又很想成为的[唢呐](https://en.wikipedia.org/wiki/Suona)乐手
 
 ## 个人创作
