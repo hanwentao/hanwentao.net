@@ -55,6 +55,10 @@ date: 2022-05-14T20:01:02+08:00
 
 * [修复 macOS 下载文件名乱码](https://www.jianshu.com/p/8b3de75f2658)
 
+## 快捷工具
+
+* [绿联智能翻页演讲笔-Windows客户端](https://cloud.tsinghua.edu.cn/f/68c8bb0386254d4bab0e/?dl=1)
+
 <script>
   function computeAge(year, month, day) {
     let now = new Date();
