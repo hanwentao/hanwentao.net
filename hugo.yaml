@@ -2,6 +2,8 @@ baseURL: https://hanwentao.net/
 languageCode: zh-Hans
 title: 韩文弢的个人网站
 copyright: '&copy;2022&ndash;2025 <a href="https://hanwentao.net">韩文弢</a><br><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcounter.hanwentao.net%2Fcount%2Fjson%3Furl%3Dhanwentao.net" alt="Hits">'
+params:
+  analytics: '<script defer src="https://umami.hanwentao.net/script.js" data-website-id="ac6534b6-b30a-4087-ba8a-a54018b73c30"></script>'
 theme: han
 markup:
   defaultMarkdownHandler: pandoc
