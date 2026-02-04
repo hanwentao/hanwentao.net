@@ -14,6 +14,7 @@ date: 2022-05-14T20:01:02+08:00
 * [PACMAN 组](https://pacman.cs.tsinghua.edu.cn)曾经的小神童
 * 信息学竞赛的深度参与者：[NOI](https://www.noi.cn/gynoi/zzjg/2019-06-12/710469.shtml)、[IOI](https://stats.ioinformatics.org/people/6789)
 * 被社工耽误的[码农](https://github.com/hanwentao)
+* [蔚来](https://www.nio.cn/)车主
 * 因为没人想当而赶鸭子上架又乐此不疲的[足球守门员](https://en.wikipedia.org/wiki/Goalkeeper_(association_football))
 * 时断时续的[乐高](https://www.lego.com/zh-cn)玩家（[我的收藏](https://brickver.com/@hanwentao)）
 * 买了还没开始学又很想成为的[唢呐](https://en.wikipedia.org/wiki/Suona)乐手
@@ -38,6 +39,7 @@ date: 2022-05-14T20:01:02+08:00
 
 ## 软件推荐
 
+* [Typst](https://typst.app/)：一个新型排版系统，用 Rust 实现，比 LaTeX 更加简单易用，[入门介绍](https://orangex4.github.io/typst-talk/)
 * [Pandoc](https://pandoc.org/)：文档格式转换工具
 * [Quarto](https://quarto.org/)：基于 [Markdown](https://daringfireball.net/projects/markdown/) 语法的科技出版工具（可用于写文章、书、演示文稿、网站等）
 * [GoAccess](https://goaccess.io/)：生成网站访问统计信息的工具
@@ -54,10 +56,6 @@ date: 2022-05-14T20:01:02+08:00
 ## 小技巧
 
 * [修复 macOS 下载文件名乱码](https://www.jianshu.com/p/8b3de75f2658)
-
-## 快捷工具
-
-* [绿联智能翻页演讲笔-Windows客户端](https://cloud.tsinghua.edu.cn/f/68c8bb0386254d4bab0e/?dl=1)
 
 <script>
   function computeAge(year, month, day) {
